@@ -1,6 +1,6 @@
 import sys
 import controller
-from PyQt6.QtGui import QPalette, QColor, QPixmap, QFont
+from PyQt6.QtGui import QPalette, QColor, QPixmap
 from PyQt6.QtCore import Qt, QSize
 from PyQt6.QtWidgets import (
     QApplication,
